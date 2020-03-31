@@ -195,10 +195,10 @@
 }
 @media screen and (max-width: 480px) {
     body{
-        width: 480px;
+        width: 460px;
     }
     .wrapper{
-        width: 480px;
+        width: 460px;
         font-size: 10px;
     }
     .header{
@@ -216,15 +216,15 @@
     }
     .photo-fem{
         img{
-            width: 480px;
+            width: 460px;
             height: 425px;
         }
-        width: 480px;
+        width: 460px;
         height: 440px;
         display: none;
     }
     .social{
-        width: 383px;
+        width: 350px;
         position: absolute;
         top: 20px;
         justify-content: center;
@@ -240,12 +240,12 @@
         right: -165px;
     }
     .slider-menu{
-        width: 480px;
+        width: 460px;
         transform: scale(0.7);
         top: 0;
     }
     .bonus-collection{
-        width: 480px;
+        width: 460px;
         height: 100%;
         padding: 0 0;
     }
@@ -267,7 +267,7 @@
         h3:after{
            display: none;
         }
-        width: 480px;
+        width: 460px;
     }
     .photos{
         grid-template-columns: 250px;
@@ -290,7 +290,7 @@
         div{
             margin: 0 35px;
         }
-        width: 480px;
+        width: 460px;
         height: 100%;
         display: grid;
         grid-template-columns:210px 210px;
@@ -314,10 +314,10 @@
 }
 @media screen and (max-width: 414px) {
     body{
-        width: 414px;
+        width: 400px;
     }
     .wrapper{
-        width: 414px;
+        width: 400px;
         font-size: 10px;
     }
     .top-menu{
@@ -340,17 +340,17 @@
     }
     .photo-fem{
         img{
-            width: 414px;
+            width: 400px;
             height: 425px;
         }
-        width:414px;
+        width:400px;
         height: 440px;
     }
     .social{
         .i1, .i2, .i3, .i4{
             display: none;
         }
-        width: 414px;
+        width: 400px;
         position: absolute;
         top: 20px;
         justify-content: center;
@@ -362,16 +362,16 @@
         top: 5px;
     }
     .language{
-        right: 158px;
+        right: 140px;
         top: -20px;
     }
     .slider-menu{
-        width: 414px;
+        width: 400px;
         transform: scale(0.7);
         top: 0;
     }
     .bonus-collection{
-        width: 414px;
+        width: 400px;
         height: 100%;
     }
     .bonus{
@@ -392,7 +392,7 @@
         h3:after{
            display: none;
         }
-        width: 414px;
+        width: 400px;
     }
     .photos{
         grid-template-columns: 250px;
@@ -415,7 +415,7 @@
         div{
             margin: 0 10px;
         }
-        width: 414px;
+        width: 400px;
         height: 100%;
         display: grid;
         grid-template-columns: 175px 175px;
@@ -440,11 +440,11 @@
 }
 @media screen and (max-width: 375px){
     body{
-        width: 375px;
+        width: 350px;
     }
     .wrapper{
-        width: 375px;
-        font-size: 10px;
+        width: 350px;
+        font-size: 8px;
     }
     .top-menu{
         span{
@@ -463,20 +463,21 @@
         }
         right: -165px;
         top: 25px;
+        font-size: 10px;
     }
     .photo-fem{
         img{
-            width: 375x;
+            width: 350px;
             height: 425px;
         }
-        width:375px;
+        width:350px;
         height: 440px;
     }
     .social{
         .i1, .i2, .i3, .i4{
             display: none;
         }
-        width: 375px;
+        width: 350px;
         position: absolute;
         top: 20px;
         justify-content: center;
@@ -488,16 +489,16 @@
         top: 5px;
     }
     .language{
-        right: 120px;
+        right: 100px;
         top: -20px;
     }
     .slider-menu{
-        width: 375px;
+        width: 350px;
         transform: scale(0.7);
         top: 0;
     }
     .bonus-collection{
-        width: 375px;
+        width: 350px;
         height: 100%;
     }
     .bonus{
@@ -518,7 +519,7 @@
         h3:after{
            display: none;
         }
-        width: 375px;
+        width: 350px;
     }
     .photos{
         grid-template-columns: 250px;
@@ -541,7 +542,7 @@
         div{
             margin: 0 10px;
         }
-        width: 375px;
+        width: 350px;
         height: 100%;
         display: grid;
         grid-template-columns: 175px 175px;
